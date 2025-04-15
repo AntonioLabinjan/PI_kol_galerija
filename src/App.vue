@@ -1,4 +1,3 @@
-<!-- src/App.vue ili src/views/Galerija.vue -->
 <template>
   <div>
     <h1>Galerija slika</h1>
@@ -24,7 +23,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import Slika from './components/Slika.vue' // promijeni ako je path drukčiji
+import Slika from './components/Slika.vue'
 
 const galerija = [
   {
