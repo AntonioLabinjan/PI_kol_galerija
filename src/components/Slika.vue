@@ -1,4 +1,3 @@
-<!-- src/components/Slika.vue -->
 <template>
     <div>
       <img 
